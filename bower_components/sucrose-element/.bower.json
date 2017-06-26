@@ -1,0 +1,27 @@
+{
+  "name": "sucrose-element",
+  "main": "sucrose-element.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.0",
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
+    "lrn-icons": "https://github.com/LRNWebComponents/lrn-icons.git#^1.0.12",
+    "greensock-cdn": "https://github.com/bterp-web/greensock.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/EberlyODL/sucrose-element",
+  "_release": "1769e0d680",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1769e0d680aa7cc23835a11c696bf9b8d5a5a368"
+  },
+  "_source": "https://github.com/EberlyODL/sucrose-element.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/EberlyODL/sucrose-element.git",
+  "_direct": true
+}
