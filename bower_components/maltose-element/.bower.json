@@ -14,14 +14,13 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "homepage": "https://github.com/EberlyODL/maltose-element",
-  "_release": "a244b22481",
+  "_release": "7fa30465d9",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "a244b2248127ebaf7cc366c0d2502aa4135379bf"
+    "commit": "7fa30465d9d77c505f280ecaf1b07546624106e7"
   },
   "_source": "https://github.com/EberlyODL/maltose-element.git",
   "_target": "*",
-  "_originalSource": "https://github.com/EberlyODL/maltose-element.git",
-  "_direct": true
+  "_originalSource": "https://github.com/EberlyODL/maltose-element.git"
 }

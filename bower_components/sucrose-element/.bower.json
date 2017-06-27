@@ -14,14 +14,13 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "homepage": "https://github.com/EberlyODL/sucrose-element",
-  "_release": "1769e0d680",
+  "_release": "364f06d6ef",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "1769e0d680aa7cc23835a11c696bf9b8d5a5a368"
+    "commit": "364f06d6ef440ded6c22c58936478f4749d0dc50"
   },
   "_source": "https://github.com/EberlyODL/sucrose-element.git",
   "_target": "*",
-  "_originalSource": "https://github.com/EberlyODL/sucrose-element.git",
-  "_direct": true
+  "_originalSource": "https://github.com/EberlyODL/sucrose-element.git"
 }
