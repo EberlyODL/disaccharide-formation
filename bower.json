@@ -6,8 +6,8 @@
     "sucrose-element": "https://github.com/EberlyODL/sucrose-element.git",
     "maltose-element": "https://github.com/EberlyODL/maltose-element.git",
     "iron-pages": "PolymerElements/iron-pages#^2.0.0",
-    "lrndesign-animationctrl": "https://github.com/LRNWebComponents/lrndesign-animationctrl.git#^0.0.2",
-    "paper-button": "PolymerElements/paper-button#^2.0.0"
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
+    "greensock-cdn": "EberlyODl/greensock#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
