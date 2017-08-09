@@ -1,11 +1,11 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
-<link rel="import" href="../../bower_components/sucrose-element/sucrose-element.html">
-<link rel="import" href="../../bower_components/maltose-element/maltose-element.html">
-<link rel="import" href="../../bower_components/iron-pages/iron-pages.html">
-<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../sucrose-element/sucrose-element.html">
+<link rel="import" href="../maltose-element/maltose-element.html">
+<link rel="import" href="../iron-pages/iron-pages.html">
+<link rel="import" href="../paper-button/paper-button.html">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
-<dom-module id="disaccharide-formation-app">
+<dom-module id="disaccharide-formation">
   <template>
     <style>
        :host {
@@ -29,7 +29,6 @@
         width: 50%;
         margin: auto auto 2em auto;
         text-align: center;
-        
       }
 
       paper-button {
@@ -70,7 +69,7 @@
 
   <script>
     Polymer({
-      is: 'disaccharide-formation-app',
+      is: 'disaccharide-formation',
       properties: {
         selected: {
           type: String,
