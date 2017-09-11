@@ -4,10 +4,11 @@
 <link rel="import" href="../iron-pages/iron-pages.html">
 <link rel="import" href="../paper-button/paper-button.html">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<link rel="import" href="../animation-shared-styles/animation-shared-styles.html">
 
 <dom-module id="disaccharide-formation">
   <template>
-    <style>
+    <style is="custom-style" include="animation-shared-styles">
        :host {
         display: block;
         background: var(--animationctrl-bg-color);
@@ -35,7 +36,7 @@
         font-family: 'Open Sans', sans-serif;
         letter-spacing: 1px;
       }
-    
+
       .active {
         color: #f5f5f5;
         background-color: grey;
@@ -49,7 +50,7 @@
         text-align: center;
       }
 
-      p { 
+      p {
         font-family: 'Open Sans', sans-serif;
       }
     </style>
